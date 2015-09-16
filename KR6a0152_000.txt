@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 國王不梨先泥十夢經
+#+DATE: 2015-08-30 19:32:59.496489
+#+PROPERTY: JUAN 0
