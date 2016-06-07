@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:32:59.305314
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:47
 #+TITLE: 國王不梨先泥十夢經
 #+PROPERTY: CBETA_ID T02n0148
 #+PROPERTY: ID KR6a0152
